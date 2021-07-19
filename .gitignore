@@ -1,0 +1,8 @@
+# Editor backups
+*~
+
+# TeX intermediates and outputs
+*.aux
+*.log
+*.dvi
+*.pdf
